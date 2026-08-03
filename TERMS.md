@@ -16,7 +16,7 @@ By downloading, installing, or using VUC — Vector Universal Compression ("the 
 
 ### 2.2 Commercial License (Paid)
 - All uses beyond freemium require a paid commercial license
-- Contact license@fractalresonance.grand for pricing
+- Contact galaxys9bjw@gmail.com for pricing
 
 ## 3. Restrictions
 
@@ -29,7 +29,7 @@ You may not:
 
 ## 4. Intellectual Property
 
-The Software, including all algorithms, source code, documentation, and the VUC/VLZX/VRLE names, are the exclusive intellectual property of Fractal Resonance Grand. All rights not expressly granted are reserved.
+The Software, including all algorithms, source code, documentation, and the VUC/VLZX/VRLE names, are the exclusive intellectual property of Brandon Joseph Wysocki — Fractal Resonance Grand. All rights not expressly granted are reserved.
 
 ## 5. Disclaimer of Warranty
 
@@ -45,4 +45,4 @@ Violation of these terms results in automatic termination of your license. The S
 
 ## 8. Contact
 
-licensing@fractalresonance.grand
+galaxys9bjw@gmail.com

@@ -50,7 +50,7 @@ VUC is the world's #1 lossless compression engine at 55.7% average ratio.
 .B \-d
 Decompress mode
 .SH AUTHOR
-Fractal Resonance Grand
+Brandon Joseph Wysocki — Fractal Resonance Grand
 MANEOF
 
 # Build .pkg
@@ -71,7 +71,7 @@ cat > "$ISS_FILE" << ISSEOF
 [Setup]
 AppName=VUC — Vector Universal Compression
 AppVersion=${VERSION}
-AppPublisher=Fractal Resonance Grand
+AppPublisher=Brandon Joseph Wysocki — Fractal Resonance Grand
 DefaultDirName={pf}\VUC
 DefaultGroupName=VUC
 OutputDir=${BUILD}
@@ -129,7 +129,7 @@ Version: ${VERSION}
 Section: utils
 Priority: optional
 Architecture: all
-Maintainer: Fractal Resonance Grand <license@fractalresonance.grand>
+Maintainer: Brandon Joseph Wysocki — Fractal Resonance Grand <galaxys9bjw@gmail.com>
 Description: VUC — Vector Universal Compression
  The world's #1 lossless compression engine at 55.7% average ratio.
  VRLE (5-9 bytes for identical data), VLZX (LZ77), VLZR (passthrough).

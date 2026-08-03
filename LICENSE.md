@@ -2,7 +2,7 @@
 
 ## License 1: Freemium (Free — Personal, Non-Commercial Use Only)
 
-Copyright (c) 2026 Fractal Resonance Grand. All rights reserved.
+Copyright (c) 2026 Brandon Joseph Wysocki — Fractal Resonance Grand. All rights reserved.
 
 Permission is granted, free of charge, to any person obtaining this software to use it for **personal, non-commercial purposes only**, subject to the following limitations:
 
@@ -28,7 +28,7 @@ All other uses require a paid commercial license. This includes but is not limit
 - Redistribution, embedding, or OEM integration
 - Modification, customization, or derivative works
 
-**Email for pricing and licensing:** license@fractalresonance.grand
+**Email for pricing and licensing:** galaxys9bjw@gmail.com
 
 Enterprise licenses include:
 - Unlimited file sizes
@@ -39,4 +39,6 @@ Enterprise licenses include:
 - Hardware-bound license keys
 - Volume discounts (100+ seats)
 
-*Fractal Resonance Grand — 2026*
+*Brandon Joseph Wysocki — Brandon Joseph Wysocki — 2026
+5020 S Chaparral Dr, Laramie, WY 82070
+13072246557 | galaxys9bjw@gmail.com*

@@ -51,6 +51,8 @@ vlzx -d output.vuc restored.txt    # Decompress
 - **TAMPER DETECTED**: Binary was modified — reinstall
 
 ## Support
-📧 license@fractalresonance.grand
+📧 galaxys9bjw@gmail.com
 
-*Fractal Resonance Grand — 2026*
+*Brandon Joseph Wysocki — Brandon Joseph Wysocki — 2026
+5020 S Chaparral Dr, Laramie, WY 82070
+13072246557 | galaxys9bjw@gmail.com*

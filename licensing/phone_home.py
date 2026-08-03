@@ -213,7 +213,7 @@ def self_destruct():
         "[VUC LICENSE VIOLATION]\n"
         "This installation has been deactivated.\n"
         "Offline grace period exceeded or tamper detected.\n"
-        "Contact license@fractalresonance.grand to restore.\n"
+        "Contact galaxys9bjw@gmail.com to restore.\n"
     )
     
     print("[GUARDIAN] Self-destruct complete. Binary corrupted.")

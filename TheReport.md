@@ -3,7 +3,7 @@
 ## The Complete Technical & Market Report
 
 **Date:** 2026-08-02
-**Project:** Fractal Resonance Grand
+**Project:** Brandon Joseph Wysocki — Fractal Resonance Grand
 **Primary Artifact:** VLZX v1.0 — 88-line C99 encoder + decoder
 **Ranking:** #1 globally at 55.7% average compression ratio
 
