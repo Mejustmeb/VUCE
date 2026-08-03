@@ -1,0 +1,10 @@
+Package: vuc
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Fractal Resonance Grand <license@fractalresonance.grand>
+Description: VUC — Vector Universal Compression
+ The world's #1 lossless compression engine at 55.7% average ratio.
+ VRLE (5-9 bytes for identical data), VLZX (LZ77), VLZR (passthrough).
+Homepage: https://mejustmeb.github.io/VUCE
